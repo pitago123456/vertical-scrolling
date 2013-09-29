@@ -1,0 +1,89 @@
+#main{
+    
+    width:90%;
+    margin: 0 auto;
+    height: 500px;   
+}
+#big-box-input,.big-box-res{
+    border: 1px solid #749b7c;
+    border-radius: 8px;
+    padding: 4px;
+    float:left;
+    width: 100%;
+    margin:0 auto;
+}
+#big-box-input h3,h4{
+    text-align: center;
+    clear: both;
+    height: 25px;
+}
+
+.box,.box2,.box3{
+    width:90%;
+    margin:0 auto;
+    clear: both;
+    }
+.box-mini{
+    width:33%;
+    float:left;
+    padding-right: 8px;
+    margin:5px 0 5px 0;
+    text-align: right;
+    }
+.box button{
+    float: left;
+    width: 15%;
+    margin: 3px 0% 5px 2%;
+    
+}
+.box span{
+    float: left;
+    padding-right: 8px;
+    margin:5px 0 5px 0;
+    width: 10%;
+    text-align: right;
+    font-weight: bold;
+}
+.box select {
+    float: left;
+     width: 30%;
+     margin:4px 0 15px 0;
+}
+
+.box2 button{
+    float: left;
+    width: 15%;
+    margin: 3px 0% 5px 2%;
+    
+}
+.box2 span{
+    float: left;
+    padding-right: 8px;
+    margin:5px 0 5px 20%;
+    width: 20%;
+    text-align: right;
+    font-weight: bold;
+}
+.box2 select {
+    float: left;
+     width: 30%;
+     margin:4px 0 15px 0;
+}
+.box-input{
+    width: 90%;
+    margin:0 auto;
+    clear: both;
+}
+
+
+.right{
+    text-decoration: none;
+    text-align: right;
+    height: 20px;
+}
+
+
+.row {
+    clear:both;
+   
+}

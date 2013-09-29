@@ -1,0 +1,47 @@
+.ttcanhan {
+    width: 40%;
+    margin:  0 auto;    
+    height: auto;    
+
+}
+.ttcanhan h3 {
+    background:  #0080FF;
+    border-radius: 8px 8px 0 0; 
+    font-weight:bold; 
+    padding:10px 0 10px 0 ; 
+    font-size:19px;
+    line-height: 21px;
+    text-align: center;
+
+}
+.color {
+ 
+    margin:  120px 0 150px 0;
+    background:  #d1e8f0;
+    height: 200px;
+    border-radius:0 0 8px 8px ; 
+    
+
+}
+.cn_row {
+    display: block;
+    margin: 3px;
+    padding:4px 0;
+    position: relative;
+}
+.left{ 
+    float:left;
+    width:30%;
+    height: 30px; 
+    text-align:right;    
+    font-weight:bold;
+    font-size: 17px;
+    
+}
+.right{ 
+    left: 5px;
+    position: relative;  
+    width:70%;
+    height: 20px; 
+    margin:10px 10px 0 0;
+}

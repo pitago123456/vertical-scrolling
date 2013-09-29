@@ -1,0 +1,80 @@
+body{
+    font-size: 13px;
+    font-family: time new roman;
+    
+}  
+.right{
+    text-decoration: none;
+    text-align: right;
+    height: 20px;
+}
+.main-content{
+    
+    width:100%;
+    margin-top: 15px;
+    float: left;
+    padding: 4px 4px 15px 4px;
+    
+    
+    
+}
+
+
+.bgedit{
+   width: 100%;
+   height: auto; 
+   position :relative; 
+}
+
+
+
+/*-------------------------inside lylichsoluoc---------------------------*/
+
+table.ref
+{
+border: 1px solid black;
+border-collapse:collapse;
+width:90%;
+margin: 0 auto;
+font-size: 13px;
+
+}
+table.ref td,th 
+{
+border:1px solid black;
+padding:3px;
+vertical-align:top;
+}
+.row {
+    clear:both;
+    width:90%;
+    margin:0 auto;
+   
+}
+.row2 {
+    clear:both;
+    padding-left:19%;
+    width: 100%;
+}
+
+.bch{ 
+    float:left;
+    width:48%; 
+   margin:4px 0 0 0;
+ }
+.bcw{ 
+    float:left;
+    width:100%; 
+   margin:4px 0 0 0;
+ }
+  
+
+.line {
+    border-bottom:1px solid #000;
+    height:15px;
+    }
+.mini_line {    
+    height:15px;
+    width: 100%;
+    margin: 0 auto;
+    }

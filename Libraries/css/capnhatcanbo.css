@@ -1,0 +1,58 @@
+#main{
+    
+    width:90%;
+    margin: 0 auto;
+    height: 500px;   
+}
+#big-box-input{
+    border: 1px solid #749b7c;
+    border-radius: 8px;
+    padding: 4px;
+    float:left;
+    width: 100%;
+    margin:0 auto;
+}
+#big-box-input h3,h4{
+    text-align: center;
+    clear: both;
+    height: 25px;
+}
+.box,.box2{
+    width:90%;
+    margin:0 auto;
+    clear: both;
+    }
+
+.box select {
+    float: left;
+     width: 30%;
+}
+.box span{
+    float: left;
+    padding-right: 8px;
+    margin:5px 0 5px 0;
+    width: 15%;
+    text-align: right;
+}
+
+.box input {
+    float: left;
+     width: 29%;
+}
+
+
+
+
+/*-------------phan dinh dang cho ket qua tim kiem--------------------------------------------------------*/    
+
+.main-content{
+    
+    width:100%;
+    margin-top: 15px;
+    float: left;
+    border: 1px solid #749b7c;
+    border-radius: 8px;
+    padding: 4px 4px 15px 4px;
+    
+    
+}

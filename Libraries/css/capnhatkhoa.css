@@ -1,0 +1,105 @@
+.border_1 
+{
+    BORDER-RIGHT: #007ebb 1px solid; 
+    PADDING-RIGHT: 0px; 
+    BORDER-TOP: #007ebb 1px solid; 
+    PADDING-LEFT: 0px; 
+    FONT-SIZE: 10pt; 
+    PADDING-BOTTOM: 1px; 
+    BORDER-LEFT: #007ebb 1px solid; 
+    PADDING-TOP: 1px; 
+    BORDER-BOTTOM: #007ebb 1px solid; 
+    FONT-FAMILY: Arial
+}
+.border_2 
+{
+    
+    FONT-SIZE: 10pt;
+    border: 1px solid #bccbd8;    
+    /*PADDING-RIGHT: 0px; 
+    
+    PADDING-LEFT: 0px; 
+    
+    PADDING-BOTTOM: 1px; 
+     
+    PADDING-TOP: 1px; */
+    
+    FONT-FAMILY: Arial
+}
+.main_1 
+{
+    PADDING-RIGHT: 0px; 
+    PADDING-LEFT: 0px; 
+    FONT-WEIGHT: bold; 
+    FONT-SIZE: 14pt; 
+    BACKGROUND-IMAGE: 
+    url('../images/bg_main_tbl.gif'); 
+    PADDING-BOTTOM: 0px; 
+    COLOR: #ffffff; 
+    PADDING-TOP: 0px; 
+    FONT-FAMILY: Arial; 
+    HEIGHT: 25px
+}
+.main_3 
+{
+    BORDER-TOP-WIDTH: 1px; 
+    BORDER-RIGHT: #80b5d7 1px solid; 
+    PADDING-RIGHT: 0px; 
+    PADDING-LEFT: 0px; 
+    FONT-WEIGHT: bold; 
+    BORDER-LEFT-WIDTH: 1px; 
+    FONT-SIZE: 10pt; 
+    PADDING-BOTTOM: 2px; 
+    COLOR: #000000; 
+    PADDING-TOP: 2px; 
+    BORDER-BOTTOM: #80b5d7 1px solid; 
+    FONT-FAMILY: Arial; 
+    BACKGROUND-COLOR: #dae9f3
+}
+.level_1_1 
+{
+    BORDER-RIGHT: #e5e5e5 1px solid; 
+    PADDING-RIGHT: 2px; 
+    BORDER-TOP: #ffffff 1px solid; 
+    PADDING-LEFT: 2px; 
+    FONT-SIZE: 10pt; 
+    PADDING-BOTTOM: 0px; 
+    MARGIN: 0px; 
+    WORD-SPACING: 0px; 
+    TEXT-INDENT: 0px; 
+    PADDING-TOP: 0px; 
+    BORDER-BOTTOM: #e5e5e5 1px solid; 
+    FONT-FAMILY: Arial;
+    HEIGHT: 23px;
+}
+
+/*Màu nền của thẻ TD hoặc TR - màu xám*/
+.level_1_2 
+{
+    BORDER-RIGHT: #e5e5e5 1px solid; 
+    PADDING-RIGHT: 2px; 
+    BORDER-TOP: #ffffff 1px solid; 
+    PADDING-LEFT: 2px; 
+    FONT-SIZE: 10pt; 
+    PADDING-BOTTOM: 0px; 
+    MARGIN: 0px; 
+    WORD-SPACING: 0px; 
+    TEXT-INDENT: 0px; 
+    PADDING-TOP: 0px; 
+    BORDER-BOTTOM: #e5e5e5 1px solid; 
+    FONT-FAMILY: Arial; 
+    BACKGROUND-COLOR: #f7f7f7;
+    HEIGHT: 23px;
+}
+.button_1
+{
+    BORDER-RIGHT: #80b5d7 1px solid; 
+    BORDER-TOP: #80b5d7 1px solid; 
+    FONT-WEIGHT: bolder; 
+    FONT-SIZE: 9pt; 
+    BORDER-LEFT: #80b5d7 1px solid; 
+    COLOR: #ffffff; 
+    BORDER-BOTTOM: #80b5d7 1px solid; 
+    FONT-FAMILY: Arial; 
+    BACKGROUND-COLOR: #3872b2
+}
